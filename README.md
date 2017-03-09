@@ -1,4 +1,4 @@
-# c-sharp-kata-3
+# C# Kata 3: Arrays & Sorting (rehash)
 
 ###Without looking at yesterday’s code, complete all the steps from Kata #2, with the following changes:
  
